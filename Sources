@@ -1,0 +1,13 @@
+Sources below helped me to implement of the Minimax and Alpha-Beta pruning script for Santorini AI:
+
+Boreham, J. (2020). Developing an AI for the Board Game Santorini. School of Computing, University of Leeds. https://info.bb-ai.net/student_projects/project_reports/Games/Jack-Boreham-Santorini-project-report.pdf
+
+Browne, C., Powley, E., Whitehouse, D., Lucas, S., Cowling, P. I., Rohlfshagen, P., Tavener, S., Perez, D., Samothrakis, S., & Colton, S. (2012). A Survey of Monte Carlo Tree Search Methods. IEEE Transactions on Computational Intelligence and AI in Games, 4(1), 1–43. https://www.lamsade.dauphine.fr/~cazenave/A+Survey+of+Monte+Carlo+Tree+Search+Methods.pdf
+
+Geissler, C. (2020). A Mathematical Analysis of the Game of Santorini. Senior Independent Study Theses, The College of Wooster. https://openworks.wooster.edu/independentstudy/8917
+
+Knuth, D. E., & Moore, R. W. (1975). An Analysis of Alpha-Beta Pruning. Artificial Intelligence, 6(4), 293–326. https://www.sciencedirect.com/science/article/abs/pii/0004370275900193
+
+Russell, S., & Norvig, P. (2021). Artificial Intelligence: A Modern Approach (4th ed.). Pearson. http://lib.ysu.am/disciplines_bk/efdd4d1d4c2087fe1cbe03d9ced67f34.pdf
+
+
